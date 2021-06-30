@@ -21,7 +21,7 @@ namespace Google_Direction_API
                 string destination = "&destination=23.691157118064577,120.53531912566041";
                 string mode = "&mode=walking";
                 string language = "&language=zh-TW";
-                string key = "&key=AIzaSyArO6pg7jjavY0zoiuREcqrKjQdPgLDnXs";
+                string key = "&";
                 string url = "https://maps.googleapis.com/maps/api/directions/json?" + origin + destination + mode + language + key;
                 //發送request
                 HttpResponseMessage response = await client.GetAsync(url);
