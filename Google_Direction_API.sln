@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Google_Direction_API", "Google_Direction_API.csproj", "{7E478585-F9C6-45C3-B156-932F30340871}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E478585-F9C6-45C3-B156-932F30340871}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E478585-F9C6-45C3-B156-932F30340871}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E478585-F9C6-45C3-B156-932F30340871}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E478585-F9C6-45C3-B156-932F30340871}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62EDE145-3606-4449-8B47-4FFDF842F2FA}
+	EndGlobalSection
+EndGlobal

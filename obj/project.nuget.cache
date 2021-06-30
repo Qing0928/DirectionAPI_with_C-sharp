@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1ZqmJmzuue14zaDGdZ6MpJreuBnOpvAODW+PqI3riG4OQ6oc9sEeFy5L6OFIHrj7h5xW57IgNhnlJS4+Ej9aTA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rs040\\Desktop\\Google_Direction_API\\Google_Direction_API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rs040\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

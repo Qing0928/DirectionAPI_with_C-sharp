@@ -1,0 +1,15 @@
+C:\Users\rs040\Desktop\Google_Direction_API\bin\Debug\netcoreapp3.1\Google_Direction_API.exe
+C:\Users\rs040\Desktop\Google_Direction_API\bin\Debug\netcoreapp3.1\Google_Direction_API.deps.json
+C:\Users\rs040\Desktop\Google_Direction_API\bin\Debug\netcoreapp3.1\Google_Direction_API.runtimeconfig.json
+C:\Users\rs040\Desktop\Google_Direction_API\bin\Debug\netcoreapp3.1\Google_Direction_API.runtimeconfig.dev.json
+C:\Users\rs040\Desktop\Google_Direction_API\bin\Debug\netcoreapp3.1\Google_Direction_API.dll
+C:\Users\rs040\Desktop\Google_Direction_API\bin\Debug\netcoreapp3.1\Google_Direction_API.pdb
+C:\Users\rs040\Desktop\Google_Direction_API\obj\Debug\netcoreapp3.1\Google_Direction_API.csprojAssemblyReference.cache
+C:\Users\rs040\Desktop\Google_Direction_API\obj\Debug\netcoreapp3.1\Google_Direction_API.AssemblyInfoInputs.cache
+C:\Users\rs040\Desktop\Google_Direction_API\obj\Debug\netcoreapp3.1\Google_Direction_API.AssemblyInfo.cs
+C:\Users\rs040\Desktop\Google_Direction_API\obj\Debug\netcoreapp3.1\Google_Direction_API.csproj.CoreCompileInputs.cache
+C:\Users\rs040\Desktop\Google_Direction_API\obj\Debug\netcoreapp3.1\Google_Direction_API.dll
+C:\Users\rs040\Desktop\Google_Direction_API\obj\Debug\netcoreapp3.1\Google_Direction_API.pdb
+C:\Users\rs040\Desktop\Google_Direction_API\obj\Debug\netcoreapp3.1\Google_Direction_API.genruntimeconfig.cache
+C:\Users\rs040\Desktop\Google_Direction_API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\rs040\Desktop\Google_Direction_API\obj\Debug\netcoreapp3.1\Google_Direction_API.csproj.CopyComplete
